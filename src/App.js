@@ -43,7 +43,7 @@ function App() {
      <div className='background'>
         <img className='backk' src={back} alt=' '></img>
         </div>
-      <p className='text'>Meltem&Abdullah Wedding </p>
+      <p className='text'></p>
       <Clock timerDays={timerDays} timerHours={timerHours} timerMinutes={timerMinutes} timerSeconds={timerSeconds}/>
       
     </div>

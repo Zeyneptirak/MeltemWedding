@@ -32,16 +32,16 @@
 
   width: auto;
   max-width: 600px;
-  color: #eaed48;
+  color: #ed9fdd;
   font-size: 1rem;
   z-index: 1;
   height: 400px;
   width: 400px;
   text-shadow: 1px 1px 7px;
   border-radius: 15px;
-  border: 1px solid rgb(247, 171, 234);
+  border: 1px solid rgb(235, 235, 123);
   box-shadow: 0 0 5px 5px;
-  margin-bottom: 100px;
+  margin-bottom: 180px;
 }
 .mare{
   position: relative;
